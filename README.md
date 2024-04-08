@@ -8,7 +8,8 @@ In many countries, instances of fraudulent behavior among government employees, 
 # Solution
 TrustBadges addresses these challenges by providing a platform to mint digital badges as NFTs for government employees, specifically targeting police personnel. These NFT badges are publicly accessible and promote transparency by enabling easy verification of police badges by citizens.
 
-# NFT Badges: Each police employee receives a unique NFT ID in their digital wallet, which cannot be forged due to its immutable nature.
+# NFT Badges
+Each police employee receives a unique NFT ID in their digital wallet, which cannot be forged due to its immutable nature.
 Yearly Minting: Badges are minted annually during police job openings, ensuring that only current employees possess valid badges.
 Government Authority: The government has the authority to mint and revoke NFT IDs, thereby maintaining control over the issuance process.
 Smart Contract Verification: A smart contract is used to mint each NFT ID, and its hash can be scanned to verify the legitimacy of the badge.
@@ -19,7 +20,8 @@ Publicly accessible profile data for easy verification.
 Yearly minting of badges during police job openings.
 Immutable NFT IDs to prevent forgery.
 Smart contract verification for badge legitimacy.
-#Technologies Used
+
+# Technologies Used
 Blockchain: Utilized for creating and managing NFTs securely.
 Smart Contracts: Implemented for minting and verification processes.
 Web3.js: Interfacing with the Ethereum blockchain.
