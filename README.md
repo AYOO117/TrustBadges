@@ -1,5 +1,5 @@
 
-##TrustBadges is a platform designed to create digital badges as Non-Fungible Tokens (NFTs) for government employees, primarily focusing on police personnel. The project aims to prevent fraud and enhance transparency in government services, specifically within law enforcement agencies.
+# TrustBadges is a platform designed to create digital badges as Non-Fungible Tokens (NFTs) for government employees, primarily focusing on police personnel. The project aims to prevent fraud and enhance transparency in government services, specifically within law enforcement agencies.
 
 #Problem Statement
 In many countries, instances of fraudulent behavior among government employees, particularly within law enforcement agencies, pose a significant challenge. There have been cases where individuals impersonate police officers for unlawful activities, leading to mistrust and insecurity among citizens. Additionally, verifying the legitimacy of a police officer's badge can be a cumbersome process for the public.
