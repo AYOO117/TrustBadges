@@ -1,0 +1,44 @@
+.container-verify
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 50px;
+  flex-direction: column;
+  padding-top: 6.5rem;
+  padding-bottom: 2.2rem;
+  background: none;
+  margin: 0 auto;
+  border: 10px ridge goldenrod;
+  width: 300px;
+ 
+}
+.verifyingsymbol
+{
+  background-image: url("https://media.giphy.com/media/PijzuUzUhm7hcWinGn/giphy.gif");
+  width: 200px;
+  height: 200px;
+  padding-bottom: 20px;
+}
+.container-dom
+{
+  margin-top: 3rem;
+  background: none;
+}
+
+.input-container-dom
+{
+  padding: 10px;
+  background-image: none;
+  color: black;
+  border-radius: 10px;
+}
+
+h2
+{
+  background: none;
+  font-size: 2rem;
+  margin: 0;
+  text-align: center;
+}

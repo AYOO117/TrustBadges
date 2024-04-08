@@ -1,0 +1,45 @@
+.verifed-img
+{
+  width: 250px;
+  border-radius: 45px;
+  margin-top: 3rem;
+  background-image: none;
+}
+
+.container-verifying
+{
+  display: flex;
+  justify-content: center;
+  background-image: none;
+}
+
+h3
+{
+  font-size: 2rem;
+  text-align: center;
+  background-image: none;
+  color: white;
+  margin: 10px;
+}
+
+.subcontainer-verifying
+{
+  background-image: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(195, 232, 232);
+  width: fit-content;
+  margin: 0 auto;
+  border-radius: 20px;
+  opacity: 0.8;
+  margin-bottom: 0;
+  position: relative;
+  top: 50px;
+}
+
+.subcontainer-verifying > h3
+{
+  color: black;
+  opacity: 1;
+}

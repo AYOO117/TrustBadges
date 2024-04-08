@@ -1,0 +1,16 @@
+.container-contact
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 500px;
+  margin: 0 auto;
+  background: none;
+  padding-bottom: 40px;
+}
+
+.h-one-contact
+{
+  font-size: 4rem;
+}

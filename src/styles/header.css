@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500&display=swap');
+
+.header
+{
+  background: none;
+}
+
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: none;
+  width: 50%;
+  font-size:  2rem;
+  position: relative;
+  margin-left: auto;
+  margin-top: 1.5rem;
+  padding: 10px;
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  
+}
+
+a{
+  
+  font-family: 'Barlow', sans-serif;
+  text-decoration: none;
+  color: #FFFFFF;
+  text-shadow: 1px 1px 10px rgb(231, 225, 225);
+  cursor: pointer;
+  background: none;background-position: none;
+}
+
+a:hover{
+  color: rgb(5, 10, 10);
+}

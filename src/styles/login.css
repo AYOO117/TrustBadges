@@ -1,0 +1,50 @@
+.container-login
+{
+  position: relative;
+  padding-top: 6rem;
+  background: none;
+}
+
+.img-one
+{
+  width: 450px;
+  background: none;
+  padding-left: 100px;
+  position: relative;
+  left: 27.85rem;
+}
+
+.img-two
+{
+  width: 450px;
+  background: none;
+}
+
+.login-btn
+{
+  background: none;
+  display: flex;
+  margin-top: 1.5rem;
+  justify-content: center;
+}
+
+.input-btn-login
+{
+  padding: 15px;
+  width: 250px;
+  background-color: #FFFFFF;
+  background-image: none;
+  border-radius: 20px;
+  border: none;
+  font-weight: bold;
+  font-size: 1.5rem;
+  
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.input-btn-login:hover
+{
+  cursor: pointer;
+  background-color: #b7b0b0;
+  
+}

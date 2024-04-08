@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@800&display=swap');
+
+.profile-section
+{
+  
+  width: 80%;
+  height: 430px;
+  margin: 0 auto;
+  display: flex;
+  background: none;
+  background-color: rgb(70, 142, 155);
+  position: relative;
+  top: 100px;
+  border-radius: 60px;
+}
+
+.subcontainer-one
+{
+  
+  width: 30%;
+  height: 430px;
+  margin-top: 60px;
+  margin-left: 90px;
+  background: none;
+}
+
+.subcontainer-two
+{
+  width: auto;
+  font-family: 'Barlow', sans-serif;
+  background: none;
+  margin-left: 5rem;
+}
+
+.subcontainer-two > h1 {
+  font-family: 'Barlow', sans-serif;
+  margin-top: 30px;
+}
+
+.subcontainer-two > h3
+{
+  color: #FFFFFF;
+  font-size: 2.3rem;
+  background: none;
+}
